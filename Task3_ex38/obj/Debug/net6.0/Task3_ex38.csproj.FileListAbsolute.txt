@@ -1,0 +1,15 @@
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/obj/Debug/net6.0/Task3_ex38.csproj.AssemblyReference.cache
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/obj/Debug/net6.0/Task3_ex38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/obj/Debug/net6.0/Task3_ex38.AssemblyInfoInputs.cache
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/obj/Debug/net6.0/Task3_ex38.AssemblyInfo.cs
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/obj/Debug/net6.0/Task3_ex38.csproj.CoreCompileInputs.cache
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/bin/Debug/net6.0/Task3_ex38
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/bin/Debug/net6.0/Task3_ex38.deps.json
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/bin/Debug/net6.0/Task3_ex38.runtimeconfig.json
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/bin/Debug/net6.0/Task3_ex38.dll
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/bin/Debug/net6.0/Task3_ex38.pdb
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/obj/Debug/net6.0/Task3_ex38.dll
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/obj/Debug/net6.0/refint/Task3_ex38.dll
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/obj/Debug/net6.0/Task3_ex38.pdb
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/obj/Debug/net6.0/Task3_ex38.genruntimeconfig.cache
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task3_ex38/obj/Debug/net6.0/ref/Task3_ex38.dll
