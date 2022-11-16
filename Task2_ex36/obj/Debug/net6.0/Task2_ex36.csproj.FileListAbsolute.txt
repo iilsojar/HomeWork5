@@ -1,0 +1,15 @@
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/bin/Debug/net6.0/Task2_ex36
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/bin/Debug/net6.0/Task2_ex36.deps.json
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/bin/Debug/net6.0/Task2_ex36.runtimeconfig.json
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/bin/Debug/net6.0/Task2_ex36.dll
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/bin/Debug/net6.0/Task2_ex36.pdb
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/obj/Debug/net6.0/Task2_ex36.csproj.AssemblyReference.cache
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/obj/Debug/net6.0/Task2_ex36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/obj/Debug/net6.0/Task2_ex36.AssemblyInfoInputs.cache
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/obj/Debug/net6.0/Task2_ex36.AssemblyInfo.cs
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/obj/Debug/net6.0/Task2_ex36.csproj.CoreCompileInputs.cache
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/obj/Debug/net6.0/Task2_ex36.dll
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/obj/Debug/net6.0/refint/Task2_ex36.dll
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/obj/Debug/net6.0/Task2_ex36.pdb
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/obj/Debug/net6.0/Task2_ex36.genruntimeconfig.cache
+/Users/mandis/Desktop/учеба/СиШарп/Homework5/Task2_ex36/obj/Debug/net6.0/ref/Task2_ex36.dll
